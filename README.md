@@ -1,12 +1,12 @@
-### Sobre mim 👋
-Boas vindas ao meu perfil!
+### Boas vindas ao meu perfil!
+
 Sou Orientadora e Analista de Carreira da área Tech, Especialista em Recolocação Profissional, Transição de Carreira e Sabotadores, e atuo como Embaixadora e Coach do Instituto O Bem Nunca Para. 
 
 Realizo treinamentos em LinkedIn Estratégico e já ministrei palestras sobre carreira e o futuro profissional em universidades como UEPG, UEM, UTFPR, UFMS e UFSCar.
 
 Me formei como Coach pelo Instituto Brasileiro de Coaching, em Orientação de Carreira pelo instituto IMS, e sou Especialista em Carreira C-VAT.
 
-Há mais de 3 anos ajudando pessoas a impulsionarem suas carreiras.
+Mais de 200 carreiras orientadas pelo meu trabalho!
 
 #### Contatos:
 
