@@ -3,6 +3,11 @@
 <a href="https://www.linkedin.com/in/danielliolegario/" target="_blank"> 
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"> 
 </a>
+
+<a href="mailto: contato.daniolegario@gmail.com" target="_blank"> 
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"> 
+</a>
+
 <!--
 **danielli-olegario/danielli-olegario** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
